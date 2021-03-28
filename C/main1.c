@@ -9,8 +9,7 @@ int main(){
         printf("The natural Numbers are %d \n",countr);
         countr++;
     }
-    
-    
 
+   
     return 0;
 }
