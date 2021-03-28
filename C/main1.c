@@ -18,7 +18,7 @@ int main(){
         num--;
     }
 
-    printf("Factorial is: %ld", factorial);
+    printf("Factorial is: %ld ", factorial);
    
     return 0;
 }
