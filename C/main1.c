@@ -7,7 +7,7 @@ int main(){
     {
         /* code */
         if (number %2 !=0)
-        printf("%d\n",number);
+        printf("The odd number is %d \n",number);
 
     }
     
