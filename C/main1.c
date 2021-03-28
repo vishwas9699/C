@@ -10,6 +10,15 @@ int main(){
         countr++;
     }
 
+    int num=5;
+    long factorial = 1;
+
+    while (num>0){
+        factorial=factorial*num;
+        num--;
+    }
+
+    printf("Factorial is: %ld", factorial);
    
     return 0;
 }
