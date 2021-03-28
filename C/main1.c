@@ -3,13 +3,13 @@
 #include<stdio.h>
 int main(){
 
-    for (int number =1; number<=5 ; number++)
-    {
-        /* code */
-        if (number %2 !=0)
-        printf("The odd number is %d \n",number);
-
+    int countr=1;
+    
+    while (countr<=10){
+        printf("The natural Numbers are %d \n",countr);
+        countr++;
     }
+    
     
 
     return 0;
